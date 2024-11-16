@@ -250,14 +250,13 @@ DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay-lineage
 
 PRODUCT_PACKAGES += \
-    CarrierConfigOverlayCK8n \
-    FrameworksResOverlayCK8n \
-    SettingsOverlayCK8n \
-    SettingsProviderCK8n \
-    SystemUIOverlayCK8n \
-    TelephonyOverlayCK8n \
-    TetheringConfigOverlayCK8n \
-    WifiOverlayCK8n
+    CarrierConfigOverlayX6739 \
+    FrameworksResOverlayX6739 \
+    SettingsOverlayX6739 \
+    SystemUIOverlayX6739 \
+    TelephonyOverlayX6739 \
+    TetheringConfigOverlayX6739 \
+    WifiOverlayX6739
 
 PRODUCT_ENFORCE_RRO_TARGETS := *
 
