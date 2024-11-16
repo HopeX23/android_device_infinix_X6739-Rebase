@@ -1,4 +1,4 @@
-# Device tree for TECNO CAMON 20 Pro 5G (CK8n)
+# Device tree for Infinix GT 10 Pro 5G (X6739)
 
 ```
 #
